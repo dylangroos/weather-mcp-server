@@ -1,2 +1,15 @@
-# weather-mcp-server
-national weather service model context protocol
+# Weather App
+
+A simple weather application.
+
+## Setup
+
+```
+npm install
+```
+
+## Development
+
+```
+npm run dev
+```
